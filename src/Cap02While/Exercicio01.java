@@ -1,4 +1,4 @@
-package Cap02;
+package Cap02While;
 
 import java.util.Scanner;
 
